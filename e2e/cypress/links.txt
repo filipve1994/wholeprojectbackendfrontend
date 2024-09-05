@@ -1,0 +1,28 @@
+## cypress links
+
+### official
+
+- https://docs.cypress.io/guides/references/configuration
+
+### tutorials
+
+- https://www.codemotion.com/magazine/frontend/web-developer/how-to-set-up-a-cypress-typescript-project/
+- https://filiphric.com/starting-with-typescript-in-cypress
+- https://medium.com/tech-learn-share/set-up-typescript-in-your-cypress-project-0063e3c365a5
+- https://ganeshsirsi.medium.com/how-to-set-up-cypress-and-typescript-end-to-end-test-automation-framework-from-scratch-step-by-step-b4f887e0646
+-
+
+### info
+
+- https://glebbahmutov.com/blog/the-awesome-battle/
+- https://medium.com/@dingraham01/cypress-easy-multi-environment-configuration-c18ac94971d5
+-
+
+
+## packages used
+
+- https://github.com/LironEr/cypress-mochawesome-reporter
+- https://github.com/ExpediaGroup/cypress-codegen
+- https://github.com/testing-library/cypress-testing-library
+- https://github.com/filiphric/cypress-plugin-api?tab=readme-ov-file
+-

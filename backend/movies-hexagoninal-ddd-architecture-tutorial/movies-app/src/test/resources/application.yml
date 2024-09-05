@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: movies-hexagoninal-ddd-architecture-tutorial
+
+server:
+  servlet:
+    context-path: /api
+
+app:
+  security:
+    tmdb:
+      key: foo

@@ -1,0 +1,37 @@
+{
+  "name": "cypress-typescript-starter-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run",
+    "cy:run:local": "cypress run --config-file cypress.config.local.ts",
+    "cy:run:dev": "cypress run --config-file cypress.config.dev.ts",
+    "cy:run:qa": "cypress run --config-file cypress.config.qa.ts",
+    "cy:run:uat": "cypress run --config-file cypress.config.uat.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "@testing-library/cypress": "^10.0.2",
+    "crossenv": "^0.0.2-security",
+    "cypress": "^13.14.1",
+    "cypress-codegen": "^2.4.4",
+    "cypress-duration-metrics": "^1.1.2",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "dotenv": "^16.4.5",
+    "eslint": "^9.9.1",
+    "eslint-plugin-cypress": "^3.5.0",
+    "globals": "^15.9.0",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.4.0"
+  },
+  "engines": {
+    "node": "^18.0.0 || >=20.0.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}

@@ -1,0 +1,6 @@
+# Angular links
+
+## replace karma with jest
+
+- https://medium.com/ngconf/configure-jest-in-angular-18-79765fdb0fae
+
